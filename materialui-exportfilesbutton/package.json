@@ -1,0 +1,49 @@
+{
+  "name": "exportmui-forcsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "yashwanth krishna undrajavarapu",
+  "license": "ISC",
+  "dependencies": {
+    "@ag-grid-community/all-modules": "^23.2.0",
+    "@date-io/date-fns": "^2.6.2",
+    "@material-ui/core": "^4.10.1",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/pickers": "^3.2.10",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "@types/jest": "^24.9.1",
+    "@types/node": "^12.12.44",
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "@types/yup": "^0.29.2",
+    "ag-grid": "^18.1.2",
+    "ag-grid-community": "^23.2.0",
+    "ag-grid-enterprise": "^23.2.0",
+    "ag-grid-react": "^23.2.0",
+    "date-fns": "^2.14.0",
+    "formik": "^2.1.4",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "typescript": "^3.7.5",
+    "yup": "^0.29.1"
+  },
+  "devDependencies": {
+    "ts-loader": "^7.0.5",
+    "webpack-cli": "^3.3.11",
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.3.0",
+    "style-loader": "^1.0.1",
+    "webpack": "^4.41.2"
+  }
+}
